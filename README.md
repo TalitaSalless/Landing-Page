@@ -12,4 +12,4 @@
 - ``CSS``
 - ``Modelagem Flexbox``
 
-![Modelo](https://raw.githubusercontent.com/TalitaSalless/CSS-Flexbox-Landing-Page/1b6519e7554512def2453bd16d9d0d531bff2f67/fullpage.png)
+![Modelo](https://github.com/TalitaSalless/CSS-Flexbox-Landing-Page/blob/main/fullpage.png)
